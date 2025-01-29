@@ -731,19 +731,7 @@ const daySchedules = {
       background: "linear-gradient(to right, #00f260, #0575e6)",
       location: "MAIN BUILDING QUADRANGLE",
     },
-    {
-      id: 10,
-      text: "GANDHAAR DINNER",
-      Ename: "GANDHAAR FEAST",
-      startRow: 20,
-      endRow: 24,
-      startCol: 2,
-      endCol: 17,
-      start: "7:30 PM",
-      end: "9:30 PM",
-      background: "linear-gradient(to right,#ff6fd8, #3813c2)",
-      location: "SAMSTHA GROUND",
-    },
+    
   ],
 };
 
