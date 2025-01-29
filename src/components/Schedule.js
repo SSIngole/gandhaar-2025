@@ -796,7 +796,6 @@ const timesByDay = {
     "6PM",
     "7PM",
     "8PM",
-    "9PM",
   ],
 };
 
