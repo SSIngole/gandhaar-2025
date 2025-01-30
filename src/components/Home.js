@@ -39,10 +39,7 @@ function Home() {
         />{" "}
       </div>
       <div></div>
-      <div id="countdown">
-        {" "}
-        <Countdown targetDate={targetDate} />{" "}
-      </div>
+      
 
       <div id="pre-themes">
         <CulturalFestMindMap />
